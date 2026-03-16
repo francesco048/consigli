@@ -46,4 +46,4 @@ async def consigli(ctx):
         picture = discord.file(f)
     await ctx.send(file=picture)
         
-bot.run('MTQ3MzAwNDg5OTYzMjQxODg1Ng.Gaai8Y.K8g7UBpzVnOykf44LspcGiTLccZniJH9zMEK9M')
+bot.run('MTQ3MzAwNDg5OTYzMjQxODg1Ng.Gw1ouW.26_aPLDJuzG4kCG620ee_ZCDkQqgxV8b6tRys4')
